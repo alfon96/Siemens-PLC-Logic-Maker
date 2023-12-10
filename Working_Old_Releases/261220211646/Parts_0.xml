@@ -1,0 +1,214 @@
+  <Parts>
+    <Access Scope="GlobalVariable" UId="21">
+      <Symbol>
+       <Component Name="Tag_1" />
+        <Address Area="Memory" Type="Bool" BitOffset="40" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="22">
+      <Symbol>
+       <Component Name="Tag_2" />
+        <Address Area="Memory" Type="Bool" BitOffset="32" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="23">
+      <Symbol>
+       <Component Name="Tag_3" />
+        <Address Area="Memory" Type="Bool" BitOffset="41" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="24">
+      <Symbol>
+       <Component Name="Tag_1" />
+        <Address Area="Memory" Type="Bool" BitOffset="40" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="25">
+      <Symbol>
+       <Component Name="Tag_4" />
+        <Address Area="Memory" Type="Bool" BitOffset="42" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="26">
+      <Symbol>
+       <Component Name="Tag_5" />
+        <Address Area="Memory" Type="Bool" BitOffset="43" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="27">
+      <Symbol>
+       <Component Name="Tag_5" />
+        <Address Area="Memory" Type="Bool" BitOffset="43" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="28">
+      <Symbol>
+       <Component Name="Tag_6" />
+        <Address Area="Memory" Type="Bool" BitOffset="44" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="29">
+      <Symbol>
+       <Component Name="Tag_4" />
+        <Address Area="Memory" Type="Bool" BitOffset="42" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="30">
+      <Symbol>
+       <Component Name="Tag_6" />
+        <Address Area="Memory" Type="Bool" BitOffset="44" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="31">
+      <Symbol>
+       <Component Name="Tag_7" />
+        <Address Area="Memory" Type="Bool" BitOffset="45" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="32">
+      <Symbol>
+       <Component Name="Tag_8" />
+        <Address Area="Memory" Type="Bool" BitOffset="34" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="33">
+      <Symbol>
+       <Component Name="Tag_2" />
+        <Address Area="Memory" Type="Bool" BitOffset="32" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="34">
+      <Symbol>
+       <Component Name="Tag_8" />
+        <Address Area="Memory" Type="Bool" BitOffset="34" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="35">
+      <Symbol>
+       <Component Name="Tag_2" />
+        <Address Area="Memory" Type="Bool" BitOffset="32" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="36">
+      <Symbol>
+       <Component Name="Tag_2" />
+        <Address Area="Memory" Type="Bool" BitOffset="32" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="37">
+      <Symbol>
+       <Component Name="Tag_9" />
+        <Address Area="Memory" Type="Bool" BitOffset="35" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="38">
+      <Symbol>
+       <Component Name="Tag_10" />
+        <Address Area="Memory" Type="Bool" BitOffset="36" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="39">
+      <Symbol>
+       <Component Name="Tag_5" />
+        <Address Area="Memory" Type="Bool" BitOffset="43" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="40">
+      <Symbol>
+       <Component Name="Tag_6" />
+        <Address Area="Memory" Type="Bool" BitOffset="44" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="41">
+      <Symbol>
+       <Component Name="Tag_6" />
+        <Address Area="Memory" Type="Bool" BitOffset="44" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="42">
+      <Symbol>
+       <Component Name="Tag_11" />
+        <Address Area="Memory" Type="Bool" BitOffset="37" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="43">
+      <Symbol>
+       <Component Name="Tag_12" />
+        <Address Area="Memory" Type="Bool" BitOffset="33" Informative="true" />
+      </Symbol>
+    </Access>
+    <Access Scope="GlobalVariable" UId="44">
+      <Symbol>
+       <Component Name="Tag_8" />
+        <Address Area="Memory" Type="Bool" BitOffset="34" Informative="true" />
+      </Symbol>
+    </Access>
+    <Part Name="Contact" UId="45" /> 
+    <Part Name="O" UId="46" > 
+    <TemplateValue Name="Card" Type="Cardinality">3</TemplateValue>
+	 </Part>
+    <Part Name="Contact" UId="47"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="O" UId="48" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Coil" UId="49" /> 
+    <Part Name="Contact" UId="50"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="Contact" UId="51"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="Contact" UId="52"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="Contact" UId="53" /> 
+    <Part Name="Contact" UId="54" /> 
+    <Part Name="Contact" UId="55" /> 
+    <Part Name="O" UId="56" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Contact" UId="57"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="O" UId="58" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Coil" UId="59" /> 
+    <Part Name="Contact" UId="60" /> 
+    <Part Name="Contact" UId="61" /> 
+    <Part Name="Contact" UId="62"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="Contact" UId="63" /> 
+    <Part Name="O" UId="64" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Contact" UId="65"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="O" UId="66" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Coil" UId="67" /> 
+    <Part Name="Contact" UId="68" /> 
+    <Part Name="Contact" UId="69"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="Contact" UId="70" /> 
+    <Part Name="O" UId="71" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Contact" UId="72"> 
+    <Negated Name="operand" />
+  </Part>
+    <Part Name="O" UId="73" > 
+    <TemplateValue Name="Card" Type="Cardinality">2</TemplateValue>
+	 </Part>
+    <Part Name="Coil" UId="74" /> 
+    <Part Name="Contact" UId="75" /> 
+    <Part Name="Contact" UId="76"> 
+    <Negated Name="operand" />
+  </Part>
+  </Parts>

@@ -1,0 +1,226 @@
+<Wires>
+  <Wire UId="77">
+      <Powerrail />
+    <NameCon UId="45" Name="in" />
+    <NameCon UId="50" Name="in" />
+    <NameCon UId="53" Name="in" />
+    <NameCon UId="55" Name="in" />
+    <NameCon UId="60" Name="in" />
+    <NameCon UId="63" Name="in" />
+    <NameCon UId="68" Name="in" />
+    <NameCon UId="70" Name="in" />
+    <NameCon UId="75" Name="in" />
+</Wire>
+  <Wire UId="78">
+    <IdentCon UId="21" />
+    <NameCon UId="45" Name="operand" />
+</Wire>
+  <Wire UId="79">
+    <NameCon UId="45" Name="out" />
+    <NameCon UId="46" Name="in1" />
+</Wire>
+  <Wire UId="80">
+    <NameCon UId="46" Name="out" />
+    <NameCon UId="47" Name="in" />
+    <NameCon UId="52" Name="in" />
+</Wire>
+  <Wire UId="81">
+    <IdentCon UId="22" />
+    <NameCon UId="47" Name="operand" />
+</Wire>
+  <Wire UId="82">
+    <NameCon UId="47" Name="out" />
+    <NameCon UId="48" Name="in1" />
+</Wire>
+  <Wire UId="83">
+    <NameCon UId="48" Name="out" />
+    <NameCon UId="49" Name="in" />
+</Wire>
+  <Wire UId="84">
+    <IdentCon UId="23" />
+    <NameCon UId="49" Name="operand" />
+</Wire>
+  <Wire UId="86">
+    <IdentCon UId="24" />
+    <NameCon UId="50" Name="operand" />
+</Wire>
+  <Wire UId="87">
+    <NameCon UId="50" Name="out" />
+    <NameCon UId="51" Name="in" />
+</Wire>
+  <Wire UId="88">
+    <IdentCon UId="25" />
+    <NameCon UId="51" Name="operand" />
+</Wire>
+  <Wire UId="89">
+    <NameCon UId="51" Name="out" />
+    <NameCon UId="46" Name="in2" />
+</Wire>
+  <Wire UId="92">
+    <IdentCon UId="26" />
+    <NameCon UId="52" Name="operand" />
+</Wire>
+  <Wire UId="93">
+    <NameCon UId="52" Name="out" />
+    <NameCon UId="48" Name="in2" />
+</Wire>
+  <Wire UId="96">
+    <IdentCon UId="27" />
+    <NameCon UId="53" Name="operand" />
+</Wire>
+  <Wire UId="97">
+    <NameCon UId="53" Name="out" />
+    <NameCon UId="54" Name="in" />
+</Wire>
+  <Wire UId="98">
+    <IdentCon UId="28" />
+    <NameCon UId="54" Name="operand" />
+</Wire>
+  <Wire UId="99">
+    <NameCon UId="54" Name="out" />
+    <NameCon UId="46" Name="in3" />
+</Wire>
+  <Wire UId="102">
+    <IdentCon UId="29" />
+    <NameCon UId="55" Name="operand" />
+</Wire>
+  <Wire UId="103">
+    <NameCon UId="55" Name="out" />
+    <NameCon UId="56" Name="in1" />
+</Wire>
+  <Wire UId="104">
+    <NameCon UId="56" Name="out" />
+    <NameCon UId="57" Name="in" />
+    <NameCon UId="62" Name="in" />
+</Wire>
+  <Wire UId="105">
+    <IdentCon UId="30" />
+    <NameCon UId="57" Name="operand" />
+</Wire>
+  <Wire UId="106">
+    <NameCon UId="57" Name="out" />
+    <NameCon UId="58" Name="in1" />
+</Wire>
+  <Wire UId="107">
+    <NameCon UId="58" Name="out" />
+    <NameCon UId="59" Name="in" />
+</Wire>
+  <Wire UId="108">
+    <IdentCon UId="31" />
+    <NameCon UId="59" Name="operand" />
+</Wire>
+  <Wire UId="110">
+    <IdentCon UId="32" />
+    <NameCon UId="60" Name="operand" />
+</Wire>
+  <Wire UId="111">
+    <NameCon UId="60" Name="out" />
+    <NameCon UId="61" Name="in" />
+</Wire>
+  <Wire UId="112">
+    <IdentCon UId="33" />
+    <NameCon UId="61" Name="operand" />
+</Wire>
+  <Wire UId="113">
+    <NameCon UId="61" Name="out" />
+    <NameCon UId="56" Name="in2" />
+</Wire>
+  <Wire UId="116">
+    <IdentCon UId="34" />
+    <NameCon UId="62" Name="operand" />
+</Wire>
+  <Wire UId="117">
+    <NameCon UId="62" Name="out" />
+    <NameCon UId="58" Name="in2" />
+</Wire>
+  <Wire UId="120">
+    <IdentCon UId="35" />
+    <NameCon UId="63" Name="operand" />
+</Wire>
+  <Wire UId="121">
+    <NameCon UId="63" Name="out" />
+    <NameCon UId="64" Name="in1" />
+</Wire>
+  <Wire UId="122">
+    <NameCon UId="64" Name="out" />
+    <NameCon UId="65" Name="in" />
+    <NameCon UId="69" Name="in" />
+</Wire>
+  <Wire UId="123">
+    <IdentCon UId="36" />
+    <NameCon UId="65" Name="operand" />
+</Wire>
+  <Wire UId="124">
+    <NameCon UId="65" Name="out" />
+    <NameCon UId="66" Name="in1" />
+</Wire>
+  <Wire UId="125">
+    <NameCon UId="66" Name="out" />
+    <NameCon UId="67" Name="in" />
+</Wire>
+  <Wire UId="126">
+    <IdentCon UId="37" />
+    <NameCon UId="67" Name="operand" />
+</Wire>
+  <Wire UId="128">
+    <IdentCon UId="38" />
+    <NameCon UId="68" Name="operand" />
+</Wire>
+  <Wire UId="129">
+    <NameCon UId="68" Name="out" />
+    <NameCon UId="64" Name="in2" />
+</Wire>
+  <Wire UId="132">
+    <IdentCon UId="39" />
+    <NameCon UId="69" Name="operand" />
+</Wire>
+  <Wire UId="133">
+    <NameCon UId="69" Name="out" />
+    <NameCon UId="66" Name="in2" />
+</Wire>
+  <Wire UId="136">
+    <IdentCon UId="40" />
+    <NameCon UId="70" Name="operand" />
+</Wire>
+  <Wire UId="137">
+    <NameCon UId="70" Name="out" />
+    <NameCon UId="71" Name="in1" />
+</Wire>
+  <Wire UId="138">
+    <NameCon UId="71" Name="out" />
+    <NameCon UId="72" Name="in" />
+    <NameCon UId="76" Name="in" />
+</Wire>
+  <Wire UId="139">
+    <IdentCon UId="41" />
+    <NameCon UId="72" Name="operand" />
+</Wire>
+  <Wire UId="140">
+    <NameCon UId="72" Name="out" />
+    <NameCon UId="73" Name="in1" />
+</Wire>
+  <Wire UId="141">
+    <NameCon UId="73" Name="out" />
+    <NameCon UId="74" Name="in" />
+</Wire>
+  <Wire UId="142">
+    <IdentCon UId="42" />
+    <NameCon UId="74" Name="operand" />
+</Wire>
+  <Wire UId="144">
+    <IdentCon UId="43" />
+    <NameCon UId="75" Name="operand" />
+</Wire>
+  <Wire UId="145">
+    <NameCon UId="75" Name="out" />
+    <NameCon UId="71" Name="in2" />
+</Wire>
+  <Wire UId="148">
+    <IdentCon UId="44" />
+    <NameCon UId="76" Name="operand" />
+</Wire>
+  <Wire UId="149">
+    <NameCon UId="76" Name="out" />
+    <NameCon UId="73" Name="in2" />
+</Wire>
+</Wires>
